@@ -10,4 +10,3 @@
 </ul>
 <br />
 <br />
-<img src="https://github.com/TheMagizz/DarkPremium/blob/master/Screenshot_2019-07-03-22-49-47-917_com.termux.png" />
