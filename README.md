@@ -1,6 +1,7 @@
 # DarkFB Termux
 
 <ul>
+<li><code>pkg update && pkg upgrade -y</code></li>
 <li><code>pkg install git python2</code></li>
 <li><code>pip2 install --upgrade pip</code></li>
 <li><code>git clone https://github.com/faizaljoker77/joker-hackfb.git </code></li>
